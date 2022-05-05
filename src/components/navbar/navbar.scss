@@ -1,0 +1,28 @@
+.nav-logo {
+    width: 150px;
+}
+
+.nav-link {
+    color: goldenrod !important;
+}
+
+.nav-link:hover {
+    color: black !important;
+    text-decoration: underline;
+}
+
+.caption {
+    display: none;
+}
+
+
+@media screen and (min-width: 480px) {
+    .caption {
+        display: block;
+        padding-top: 10px;
+    }
+
+    .navbar-nav {
+        width: 600px;
+    }
+  }
