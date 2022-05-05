@@ -17,6 +17,8 @@ function OurBooths (){
                     <p classNameName="card-text">$449 (3 hrs)</p>
                     <hr />
                     <p classNameName="card-text">$599 (4 hrs)</p>
+                    <hr />
+                    <p classNameName="card-text">Open Booth Concept, Unlimited Real-Time Videos, Custom Graphics, Animated Props, Video Soundtrack, Quality Design, Online Video Library, VIP Red Carpet Entry, Rope & Stanchions, 360 LED Lighting, Event Branding, Two Staff Attendants.</p>
                 </div>
             </div>
             <div className="card text-center col-sm-10 col-lg-3">
@@ -30,6 +32,8 @@ function OurBooths (){
                     <p classNameName="card-text">$449 (3 hrs)</p>
                     <hr />
                     <p classNameName="card-text">$599 (4 hrs)</p>
+                    <hr />
+                    <p classNameName="card-text">Open Booth Concept, Unlimited Photo Booth Sessions, Unlimited Prints, Photo Strips, Pic Collages, Professional Prop Kit, LED Lighting, Interactive Touch Screen, On-site Gaming, Green Screen Adaptable, Emoji Stamps, Event Advertising, Two Staff Attendants.</p>
                 </div>
             </div>
             <div className="card text-center col-sm-10 col-lg-3">
@@ -43,6 +47,8 @@ function OurBooths (){
                     <p classNameName="card-text">$449 (3 hrs)</p>
                     <hr />
                     <p className="card-text">$599 (4 hrs)</p>
+                    <hr />
+                    <p classNameName="card-text">Open Booth Concept, Closed Booth Concept, Unlimited Photo Booth Use, Instant Prints, Choice of Photo Design, Photo Strips, Pic Collages, Digital Photo Sharing, Online Gallery of Photos, Event Marketing, Customer Follow-up (Business Use Only), Survey Questionnaire (Business Use Only), Friendly Booth Attendant.</p>
                 </div>
             </div>
         </div>

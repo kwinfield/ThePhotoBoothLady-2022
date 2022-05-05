@@ -7,7 +7,7 @@ function Intro (){
             <div className="intro-text">
                 <h1 className='text-center'>The Photo Booth Lady</h1>
                 <hr />
-                <p className='text-center'>Your Event Deserves a Photo Booth!</p>
+                <h3 className='text-center'>Your Event Deserves a Photo Booth!</h3>
                 <p className='text-center w-50 m-auto'>Serving North & South Carolina, Georgia, and Tennessee</p>
             </div>
         </div>

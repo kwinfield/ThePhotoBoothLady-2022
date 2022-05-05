@@ -4,6 +4,15 @@
 
     h2 {
         color: goldenrod;
+        font-family: 'Patrick Hand', cursive;
+    }
+
+    p {
+        font-family: 'Patrick Hand', cursive;
+    }
+
+    ::placeholder {
+        font-family: 'Patrick Hand', cursive;
     }
 
     ul {
@@ -24,6 +33,7 @@
 
        .btn {
            color: goldenrod;
+           font-family: 'Patrick Hand', cursive;
        }
     }
     
