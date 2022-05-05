@@ -10,7 +10,7 @@ function OurBooths (){
                 <img src="/images/360Stock.jpg" class="card-img-top image-fluid" alt="Fissure in Sandstone"/>
                 <div class="card-body">
                     <span className="card-title"><h1>360 VIDEO BOOTH</h1></span>
-                    <h1 class="card-text">$298</h1>
+                    <h1 class="card-text">$350-$450/hr</h1>
                     <hr />
                     <p className="card-text">Digital prints $99/hr</p>
                     <hr />
@@ -23,7 +23,7 @@ function OurBooths (){
                 <img src="/images/MirrorBoothWedding.jpg" className="card-img-top mx-auto image-fluid" alt="Fissure in Sandstone"/>
                 <div className="card-body">
                 <span classNameName="card-title"><h1>MIRROR BOOTH</h1></span>
-                    <h1 className="card-text">$298</h1>
+                    <h1 className="card-text">$300-$400/hr</h1>
                     <hr />
                     <p className="card-text">Digital prints $99/hr</p>
                     <hr />
@@ -36,7 +36,7 @@ function OurBooths (){
                 <img src="/images/PartyBooth.jpg" className="card-img-top mx-auto image-fluid" alt="Fissure in Sandstone"/>
                 <div className="card-body">
                 <span classNameName="card-title"><h1>PARTY BOOTH</h1></span>
-                    <h1 className="card-text">$298</h1>
+                    <h1 className="card-text">$200/hr</h1>
                     <hr />
                     <p className="card-text">Digital prints $99/hr</p>
                     <hr />
