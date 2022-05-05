@@ -1,5 +1,10 @@
 .contact {
-    width: 80%;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url('../../../public/images/mirror-booth.jpg');
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    opacity: 0.75;
+    width: 100%;
     margin: auto;
 
     h2 {
@@ -9,10 +14,12 @@
 
     p {
         font-family: 'Patrick Hand', cursive;
+        color: whitesmoke;
     }
 
     ::placeholder {
         font-family: 'Patrick Hand', cursive;
+        color: goldenrod;
     }
 
     ul {

@@ -3,14 +3,13 @@
 }
 
 .navbar ul {
-    width: 700px;
+    width: 100%;
 }
 
 .nav-link {
     color: goldenrod !important;
     font-family: 'Patrick Hand', cursive;
     font-size: 1.5rem;
-    margin-left: 3px;
 }
 
 .nav-link:hover {
@@ -24,7 +23,7 @@
 }
 
 
-@media screen and (min-width: 480px) {
+@media screen and (min-width: 900px) {
     .caption {
         display: block;
         padding-top: 10px;
@@ -32,5 +31,8 @@
 
     .navbar-nav {
         width: 600px;
+    }
+    .navbar ul {
+        width: 700px;
     }
   }

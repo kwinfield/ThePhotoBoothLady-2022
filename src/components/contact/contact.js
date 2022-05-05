@@ -4,10 +4,7 @@ import './contact.scss';
 function Contact() {
     return (
         <div>
-            <section class="mb-4 p-3 mt-5 contact">
-                
-                
-
+            <section class="p-3 mt-5 contact">
                 <div class="row justify-content-around">
                     <div class="col-lg-5 mb-md-0 form-row mt-5">
                     <h2 class="h1-responsive font-weight-bold text-center my-4">Book Now</h2>
@@ -43,7 +40,7 @@ function Contact() {
                         </form>
 
                         <div class="text-md-left form-button">
-                            <a class="btn" onclick="document.getElementById('contact-form').submit();">Send</a>
+                            <a class="btn bg-white" onclick="document.getElementById('contact-form').submit();">Send</a>
                         </div>
                         <div class="status"></div>
                     </div>

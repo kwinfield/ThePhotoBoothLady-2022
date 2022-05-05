@@ -9,7 +9,7 @@ function OurBooths (){
             <div class="card text-center col-sm-10 col-lg-3 mb-3">
                 <img src="/images/360Stock.jpg" class="card-img-top image-fluid" alt="Fissure in Sandstone"/>
                 <div class="card-body">
-                    <span className="card-title"><h1>360 VIDEO BOOTH</h1></span>
+                    <span className="card-title"><h1>360 VIDEO</h1></span>
                     <h1 class="card-text">$350-$450/hr</h1>
                     <hr />
                     <p className="card-text">Digital prints $99/hr</p>
