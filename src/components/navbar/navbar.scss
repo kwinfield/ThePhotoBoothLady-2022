@@ -1,5 +1,8 @@
+
 .nav-logo {
     width: 150px;
+    margin-top: 0px;
+    margin-left: 0px
 }
 
 .navbar ul {
@@ -9,7 +12,7 @@
 .nav-link {
     color: goldenrod !important;
     font-family: 'Patrick Hand', cursive;
-    font-size: 1.5rem;
+    font-size: 1vw;
 }
 
 .nav-link:hover {
@@ -20,19 +23,29 @@
 .caption {
     display: none;
     font-family: 'Patrick Hand', cursive;
+    font-size: 1vw;
 }
 
 
-@media screen and (min-width: 900px) {
-    .caption {
-        display: block;
-        padding-top: 10px;
-    }
-
-    .navbar-nav {
-        width: 600px;
-    }
-    .navbar ul {
-        width: 700px;
-    }
+@media screen and (min-width: 991px) {
+  nav {
+    height: 5rem;
   }
+
+  .caption {
+      display: block;
+      padding-top: 10px;
+  }
+
+  .navbar-nav {
+      width: 600px;
+  }
+  .navbar ul {
+      width: 500px;
+  }
+  .nav-logo {
+      width: 300px;
+      margin-top: 125px;
+      margin-left: -50px
+  }
+}

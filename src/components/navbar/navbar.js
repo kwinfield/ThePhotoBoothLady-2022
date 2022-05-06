@@ -2,8 +2,8 @@ import React from 'react';
 import './navbar.scss';
 
 function Navbar (){
-    return <nav class="navbar navbar-expand-lg navbar-light bg-light">
-      
+    return <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+
     <div class="container-fluid">
     <div class="d-flex align-items-center">
       <img src="/images/pbl-logo.png" alt="" className='nav-logo' /><br/>
