@@ -2,7 +2,7 @@
 .nav-logo {
     width: 150px;
     margin-top: 0px;
-    margin-left: 0px
+    margin-left: 0px;
 }
 
 .navbar ul {
@@ -12,7 +12,7 @@
 .nav-link {
     color: goldenrod !important;
     font-family: 'Patrick Hand', cursive;
-    font-size: 1vw;
+    font-size: 3vw;
 }
 
 .nav-link:hover {
@@ -42,6 +42,11 @@
   }
   .navbar ul {
       width: 500px;
+  }
+  .nav-link {
+      color: goldenrod !important;
+      font-family: 'Patrick Hand', cursive;
+      font-size: 1vw;
   }
   .nav-logo {
       width: 300px;
